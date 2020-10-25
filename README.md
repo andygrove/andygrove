@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**andygrove/andygrove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andy Grove, a software engineer from the UK, but now living in Colorado.
 
-Here are some ideas to get you started:
+### Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work for NVIDIA where I contribute to the RAPIDS Accelerator for Apache Spark, which is an open source plugin that provides GPU-acceleration.
+
+### Open Source
+
+I am a PMC member and regular contributor to the Rust implementation of Apache Arrow, including the DataFusion query engine.
+
+### Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/andygrove/)
+- [Twitter](https://twitter.com/andygrove73)
+
+
