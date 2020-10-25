@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Andy Grove, a software engineer from the UK, but now living in Colorado.
+I'm Andy Grove, a software engineer specializing in distributed systems and query engines. I am the author of the book [How Query Engines Work](https://leanpub.com/how-query-engines-work).
 
 ### Work
 
-I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration.
+I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration for ETL workloads.
 
 ### Open Source
 
