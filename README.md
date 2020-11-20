@@ -9,7 +9,7 @@ I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark
 ### Open Source
 
 - I am a PMC member of [Apache Arrow](https://github.com/apache/arrow/), where I donated the initial Rust implementation and later donated the DataFusion query engine.
-- I believe that Rust and Apache Arrow together provide a great foundation for distributed systems and I created [Ballista Distributed Compute](https://github.com/ballista-compute/ballista) platform to demonstrate the possibilities.
+- I believe that Rust and Apache Arrow together provide a great foundation for distributed systems and I created the [Ballista Distributed Compute](https://github.com/ballista-compute/ballista) platform to demonstrate the possibilities.
 
 ### Hobbies
 
