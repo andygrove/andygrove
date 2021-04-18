@@ -8,11 +8,11 @@ I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark
 
 ### Open Source
 
-I am a PMC member of [Apache Arrow](https://github.com/apache/arrow/), where I have made three major donations:
+I am a PMC member of [Apache Arrow](https://github.com/apache/arrow/), where I have made the following donations:
 
-- In 2018, I donated the initial Rust implementation 
-- In 2019, I donated the DataFusion query engine
-- In 2021, I donated the Ballista distributed query scheduler
+- In 2018, I donated the [Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)
+- In 2019, I donated the [DataFusion query engine](https://github.com/apache/arrow-rs)
+- In 2021, I donated the [Ballista distributed query scheduler](https://github.com/apache/arrow-datafusion/tree/master/ballista)
 
 I now work on Arrow in my spare time to help drive these projects forward.
 
