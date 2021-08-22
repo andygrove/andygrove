@@ -4,17 +4,17 @@ I'm Andy Grove, a software engineer specializing in distributed systems and quer
 
 ### Career
 
-I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration for ETL workloads, leveraging the [RAPIDS cuDF GPU DataFrame library](https://github.com/rapidsai/cudf).
+I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration for ETL workloads, leveraging the [RAPIDS cuDF GPU DataFrame library](https://github.com/rapidsai/cudf) which uses the Apache Arrow memory model.
 
 ### Open Source
 
-I am a PMC member of [Apache Arrow](https://github.com/apache/arrow/), where I have made the following donations:
+I am a PMC member and active contributor in the [Apache Arrow](https://github.com/apache/arrow/) project, where I have made the following donations:
 
 - In 2018, I donated the [Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)
 - In 2019, I donated the [DataFusion query engine](https://github.com/apache/arrow-datafusion)
 - In 2021, I donated the [Ballista distributed query scheduler](https://github.com/apache/arrow-datafusion/tree/master/ballista)
 
-I now work on Arrow in my spare time to help drive these projects forward.
+I am also the original author of the [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) crate.
 
 ### Hobbies
 
