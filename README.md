@@ -30,5 +30,6 @@ I occasionally work on hobby projects involving digital electronics, microcontro
 
 - [LinkedIn](https://www.linkedin.com/in/andygrove/)
 - [Twitter](https://twitter.com/andygrove_io)
+- [YouTube](https://www.youtube.com/channel/UCO91431fcbKqm10mRTIUFfA)
 
 
