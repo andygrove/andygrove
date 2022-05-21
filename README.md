@@ -11,8 +11,8 @@ I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark
 I am a PMC member and active contributor in the [Apache Arrow](https://github.com/apache/arrow/) project, where I have made the following donations:
 
 - In 2018, I donated the [Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)
-- In 2019, I donated the [DataFusion query engine](https://github.com/apache/arrow-datafusion)
-- In 2021, I donated the [Ballista distributed query scheduler](https://github.com/apache/arrow-datafusion/tree/master/ballista)
+- In 2019, I donated the [DataFusion](https://github.com/apache/arrow-datafusion) in-process SQL query engine
+- In 2021, I donated the [Ballista](https://github.com/apache/arrow-ballista) distributed SQL query engine
 
 I am also the original author of the [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) crate.
 
