@@ -4,7 +4,9 @@ I'm Andy Grove, a software engineer specializing in distributed systems and quer
 
 ### Career
 
-I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration for ETL workloads, leveraging the [RAPIDS cuDF GPU DataFrame library](https://github.com/rapidsai/cudf) which uses the Apache Arrow memory model.
+I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration for ETL workloads, leveraging the [RAPIDS cuDF GPU DataFrame library](https://github.com/rapidsai/cudf).
+
+I am also helping the NVIDIA Dask SQL team integrate [DataFusion](https://github.com/apache/arrow-datafusion) for query planning and optimizations.
 
 ### Open Source
 
