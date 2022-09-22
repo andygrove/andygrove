@@ -29,6 +29,16 @@ Current areas of focus:
 - Improve Type Coercion logic
 - Improve quality of the logical plan optimizer
 - Improve SQL support to cover popular benchmarks
+- Release Management 
+
+## sqlparser-rs
+
+Tracking: [Issues](https://github.com/sqlparser-rs/sqlparser-rs/issues/assigned/andygrove) [PRs](https://github.com/sqlparser-rs/sqlparser-rs/pulls/andygrove)
+
+Current areas of focus:
+
+- PR reviews
+- Release Management
 
 ## Ballista
 
@@ -41,3 +51,4 @@ Current areas of focus:
 - Improve usability (user interface, documentation, etc)
 - Review PRs
 - Run popular SQL benchmarks and compare query plans with other solutions (Spark, Dask SQL)
+- Release Management
