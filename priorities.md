@@ -29,6 +29,7 @@ Current areas of focus:
 - Improve Type Coercion logic
 - Improve quality of the logical plan optimizer
 - Improve SQL support to cover popular benchmarks
+- Improve error handling (replace `panic!` and `unwrap()` with `Result`)
 - Release Management 
 
 ## sqlparser-rs
