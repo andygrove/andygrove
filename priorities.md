@@ -28,6 +28,7 @@ Current areas of focus (mostly driven by Dask SQL requirements):
 - PR reviews (especially in SQL query planning and logical plan optimizations)
 - Improve Type Coercion logic
 - Improve quality of the logical plan optimizer
+- Add new optimization rules to improve Dask SQL performance
 - Improve SQL support to cover popular benchmarks
 - Improve error handling (replace `panic!` and `unwrap()` with `Result`)
 - Release Management 
