@@ -2,7 +2,7 @@
 
 ## Spark RAPIDS
 
-[Assigned Issues](https://github.com/NVIDIA/spark-rapids/issues/assigned/andygrove)
+Tracking: [Issues](https://github.com/NVIDIA/spark-rapids/issues/assigned/andygrove) [PRs](https://github.com/NVIDIA/spark-rapids/pulls/andygrove)
 
 Current areas of focus:
 
