@@ -23,7 +23,7 @@ Current areas of focus:
 
 Tracking: [Issues](https://github.com/apache/arrow-datafusion/issues/assigned/andygrove) [PRs](https://github.com/apache/arrow-datafusion/pulls/andygrove)
 
-Current areas of focus:
+Current areas of focus (mostly driven by Dask SQL requirements):
 
 - PR reviews (especially in SQL query planning and logical plan optimizations)
 - Improve Type Coercion logic
