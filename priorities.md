@@ -12,7 +12,7 @@ Current areas of focus:
 
 ## Dask SQL
 
-[Assigned Issues](https://github.com/dask-contrib/dask-sql/issues/assigned/andygrove)
+Tracking: [Issues](https://github.com/dask-contrib/dask-sql/issues/assigned/andygrove) [PRs](https://github.com/dask-contrib/dask-sql/pulls/andygrove)
 
 Current areas of focus:
 
@@ -21,20 +21,23 @@ Current areas of focus:
 
 ## DataFusion
 
-[Assigned Issues](https://github.com/apache/arrow-datafusion/issues/assigned/andygrove)
+Tracking: [Issues](https://github.com/apache/arrow-datafusion/issues/assigned/andygrove) [PRs](https://github.com/apache/arrow-datafusion/pulls/andygrove)
 
 Current areas of focus:
 
 - PR reviews (especially in SQL query planning and logical plan optimizations)
 - Improve Type Coercion logic
+- Improve quality of the logical plan optimizer
 - Improve SQL support to cover popular benchmarks
 
 ## Ballista
 
-[Assigned Issues](https://github.com/apache/arrow-ballista/issues/assigned/andygrove)
+Tracking: [Issues](https://github.com/apache/arrow-ballista/issues/assigned/andygrove) [PRs](https://github.com/apache/arrow-ballista/pulls/andygrove)
+
+Ballista is mostly my weekend hobby project for now.
 
 Current areas of focus:
 
 - Improve usability (user interface, documentation, etc)
 - Review PRs
-- Run benchmarks and compare query plans with other solutions (Spark, Dask SQL)
+- Run popular SQL benchmarks and compare query plans with other solutions (Spark, Dask SQL)
