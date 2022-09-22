@@ -8,6 +8,8 @@ I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark
 
 I am also helping the NVIDIA [Dask SQL](https://github.com/dask-contrib/dask-sql) team integrate [DataFusion](https://github.com/apache/arrow-datafusion) for query planning and optimizations.
 
+You can see a detailed list of my current work focus [here](https://github.com/andygrove/andygrove/blob/main/priorities.md).
+
 ### Open Source
 
 I am a PMC member and active contributor in the [Apache Arrow](https://github.com/apache/arrow/) project, where I have made the following donations:
