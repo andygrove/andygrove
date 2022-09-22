@@ -36,9 +36,12 @@ Current areas of focus (mostly driven by Dask SQL requirements):
 
 Tracking: [Issues](https://github.com/sqlparser-rs/sqlparser-rs/issues/assigned/andygrove) [PRs](https://github.com/sqlparser-rs/sqlparser-rs/pulls/andygrove)
 
+This is the SQL parser used by DataFusion (and therefore, also used by Dask SQL and Ballista).
+
 Current areas of focus:
 
 - PR reviews
+- Parser improvements as needed to increase support for popular SQL benchmark queries
 - Release Management
 
 ## Ballista
