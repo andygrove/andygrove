@@ -48,7 +48,7 @@ Current areas of focus:
 
 Tracking: [Issues](https://github.com/apache/arrow-ballista/issues/assigned/andygrove) [PRs](https://github.com/apache/arrow-ballista/pulls/andygrove)
 
-Ballista is mostly my weekend hobby project for now, but I am also the only active Arrow PMC involved in the project so I spend some time on related duties.
+Ballista is mostly my weekend hobby project for now, but I am also the only Arrow PMC actively involved in the project so I spend some time on related duties.
 
 Current areas of focus:
 
