@@ -1,5 +1,7 @@
 # What Am I Working On?
 
+Last updated: September 2022
+
 ## Spark RAPIDS
 
 Tracking: [Issues](https://github.com/NVIDIA/spark-rapids/issues/assigned/andygrove) [PRs](https://github.com/NVIDIA/spark-rapids/pulls/andygrove)
