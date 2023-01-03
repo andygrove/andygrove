@@ -2,9 +2,10 @@
 
 ## NVIDIA
 
-- Spark RAPIDS
- [Dask SQL](https://github.com/dask-contrib/dask-sql)
-- cuDF
+- [Spark RAPIDS](https://github.com/NVIDIA/spark-rapids)
+- [Spark RAPIDS JNI](https://github.com/NVIDIA/spark-rapids-jni)
+- [Dask SQL](https://github.com/dask-contrib/dask-sql)
+- [cuDF](https://github.com/rapidsai/cudf)
 
 ## Apache Arrow
 
