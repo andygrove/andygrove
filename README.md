@@ -19,9 +19,17 @@ I am a PMC member and active contributor in the [Apache Arrow](https://github.co
 
 I am also the original author of the [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) crate.
 
-### Hobbies
+### Current Hobbies
 
-I occasionally work on hobby projects involving digital electronics, microcontrollers, woodworking, and similar skills. Some of my projects have been featured on popular "maker" web sites.
+I like to tinker on small coding side projects to keep my skills up to date, research new ideas, and automate aspects of my job. Here are a few things I am working on:
+
+- [Boring Data Tool](https://github.com/andygrove/bdt)
+- [Query Plan Markup Language](https://github.com/andygrove/qpml)
+- [Open Source SQL Benchmarks](https://github.com/sql-benchmarks/)
+
+### Past Hobbies
+
+Before I became obsessed with working in OSS, my hobby projects involved digital electronics, microcontrollers, woodworking, and similar skills. Some of my projects have been featured on popular "maker" web sites.
 
 - [11 Arduino projects that require major hacking skills—or a bit of insanity](https://arstechnica.com/information-technology/2013/05/11-arduino-projects-that-require-major-hacking-skills-or-a-bit-of-insanity/) -- Ars Techica
 - [Dr. Who’s Nemesis, The Dalek, Built With Arduino](https://blog.adafruit.com/2014/03/29/dr-whos-nemesis-the-dalek-built-with-arduino-arduinod14/) -- Adafruit Blog
