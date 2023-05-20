@@ -6,9 +6,6 @@ I'm Andy Grove, a software engineer specializing in distributed systems and quer
 
 I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open source plugin that provides GPU-acceleration for ETL workloads, leveraging the [RAPIDS cuDF GPU DataFrame library](https://github.com/rapidsai/cudf).
 
-I am also helping the NVIDIA [Dask SQL](https://github.com/dask-contrib/dask-sql) team integrate [DataFusion](https://github.com/apache/arrow-datafusion) for query planning and optimizations.
-
-
 ### Open Source
 
 I am a PMC member and active contributor in the [Apache Arrow](https://github.com/apache/arrow/) project, where I have made the following donations:
@@ -19,29 +16,9 @@ I am a PMC member and active contributor in the [Apache Arrow](https://github.co
 
 I am also the original author of the [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) crate.
 
-### Current Hobbies
-
-I like to tinker on small coding side projects to keep my skills up to date, research new ideas, and automate aspects of my job. Here are a few things I am working on:
-
-- [Boring Data Tool](https://github.com/andygrove/bdt)
-- [Query Plan Markup Language](https://github.com/andygrove/qpml)
-- [Open Source SQL Benchmarks](https://github.com/sql-benchmarks/)
-
-### Past Hobbies
-
-Before I became obsessed with working in OSS, my hobby projects involved digital electronics, microcontrollers, woodworking, and similar skills. Some of my projects have been featured on popular "maker" web sites.
-
-- [11 Arduino projects that require major hacking skills—or a bit of insanity](https://arstechnica.com/information-technology/2013/05/11-arduino-projects-that-require-major-hacking-skills-or-a-bit-of-insanity/) -- Ars Techica
-- [Dr. Who’s Nemesis, The Dalek, Built With Arduino](https://blog.adafruit.com/2014/03/29/dr-whos-nemesis-the-dalek-built-with-arduino-arduinod14/) -- Adafruit Blog
-- [Ultrasonic pi-ano](https://www.raspberrypi.org/blog/ultrasonic-piano/) -- Raspberry Pi Foundation
-- [Ultrasonic Raspberry Pi Piano](https://hackaday.com/2017/04/22/ultrasonic-raspberry-pi-piano/) -- Hackaday
-- [Camera competition winners!](https://www.raspberrypi.org/blog/camera-competition-winners/) -- Raspberry Pi Foundation
-
 ### Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/andygrove/)
 - [Mastodon](https://fosstodon.org/@andygrove)
 - [Twitter](https://twitter.com/andygrove_io)
 - [YouTube](https://www.youtube.com/channel/UCO91431fcbKqm10mRTIUFfA)
-
-
