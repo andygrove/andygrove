@@ -8,7 +8,7 @@ I work for NVIDIA where I contribute to the [RAPIDS Accelerator for Apache Spark
 
 ### Open Source
 
-I am a PMC member and active contributor in the [Apache Arrow](https://github.com/apache/arrow/) project, where I have made the following donations:
+I am a PMC member of the [Apache Arrow](https://github.com/apache/arrow/) project and have donated the following subprojects:
 
 - In 2018, I donated the [Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)
 - In 2019, I donated the [DataFusion](https://github.com/apache/arrow-datafusion) in-process SQL query engine
