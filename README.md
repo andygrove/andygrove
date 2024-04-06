@@ -2,10 +2,6 @@
 
 I'm Andy Grove, a software engineer specializing in distributed systems and query engines. I am the author of the book [How Query Engines Work](https://leanpub.com/how-query-engines-work).
 
-### Career
-
-I work for NVIDIA, where I contribute to the [RAPIDS Accelerator for Apache Spark](https://github.com/NVIDIA/spark-rapids), which is an open-source plugin that provides GPU-acceleration for ETL workloads, leveraging the [RAPIDS cuDF GPU DataFrame library](https://github.com/rapidsai/cudf).
-
 ### Open Source
 
 I am a PMC member of the [Apache Arrow](https://github.com/apache/arrow/) project and have donated the following subprojects:
