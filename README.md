@@ -4,7 +4,7 @@ I'm Andy Grove, a software engineer specializing in distributed systems and quer
 
 ### Open Source
 
-I am a PMC member of the [Apache Arrow](https://github.com/apache/arrow/) project and have donated the following subprojects:
+I am a PMC member of the [Apache Arrow](https://github.com/apache/arrow/) and [Apache DataFusion](https://github.com/apache/datafusion) projects. I have made a number of code donations to these projects:
 
 - In 2018, I donated the [Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)
 - In 2019, I donated the [DataFusion](https://github.com/apache/arrow-datafusion) in-process SQL query engine
