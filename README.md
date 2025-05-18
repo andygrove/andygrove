@@ -9,10 +9,10 @@ I am a PMC member of the [Apache Arrow](https://github.com/apache/arrow/) and [A
 - In 2018, I donated the [Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)
 - In 2019, I donated the [DataFusion](https://github.com/apache/arrow-datafusion) in-process SQL query engine
 - In 2021, I donated the [Ballista](https://github.com/apache/arrow-ballista) distributed SQL query engine
+- Since 2024, I have been contributing to DataFusion's [Comet](https://github.com/apache/datafusion-comet) subproject, which is an accelerator for Apache Spark
 
 I am also the original author of the [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) crate.
 
 ### Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/andygrove/)
-- [Twitter](https://twitter.com/andygrove_io)
