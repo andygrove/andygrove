@@ -2,8 +2,6 @@
 
 I'm Andy Grove, a software engineer specializing in distributed systems and query engines. I am the author of the book [How Query Engines Work](https://leanpub.com/how-query-engines-work).
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andygrove)
-
 ### Open Source
 
 I am a PMC member of the [Apache Arrow](https://github.com/apache/arrow/) and [Apache DataFusion](https://github.com/apache/datafusion) projects. I have made a number of code donations to these projects:
